@@ -102,3 +102,4 @@ sudo apt update
 5. **Explore package management:** Learn to install and update software.
 6. **Join the community:** Ask questions on forums like Ask Ubuntu or Stack Overflow.
 
+password=12345
